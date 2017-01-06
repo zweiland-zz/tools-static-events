@@ -1,3 +1,24 @@
-node_modules
-.DS_Store
+
 dist
+
+# Node/NPM
+node_modules
+npm-debug.log
+
+# OS Files
+.DS_Store
+
+# SASS
+.sass-cache
+
+# temporary build
+.tmp
+
+# temporary files
+*.old
+*.bak
+*.backup
+*.swp
+.nfs*
+*.swo
+*.orig
